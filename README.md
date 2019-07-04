@@ -1,1 +1,38 @@
-# quote-api
+# Wake up to a dose of inspirational quotes every morning using Sendgrid/Twilio SMS and Quote APIs
+
+
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+What you need to follow the tutorial.
+
+```
+- Twilio Account
+- Sendgrid Account
+- Laravel
+- Composer globally installed
+```
+
+### Setting up a development environment
+
+- Install Laravel
+- Install Twilio SDK for PHP
+- Set Sendgrid environment
+- Purchasing an SMS enabled Twilio phone number
+
+## Creating a Quote API endpoint ( Forismatic and favqs APIs)
+
+  * Use the two APIs Forismatic and Favqs to get quotes.
+  
+### Sending Quote(s) through email using Sendgrid.
+
+### Sending SMS through Twilio SMS
+
+### Testing our App
+
+###  Conclusion
+
