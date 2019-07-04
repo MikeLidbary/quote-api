@@ -1,6 +1,6 @@
 # Wake up to a dose of inspirational quotes every morning using Sendgrid/Twilio SMS and Quote APIs
 
-
+Introducing the topic and giving some background info.
 
 ## Getting Started
 
@@ -18,11 +18,11 @@ What you need to follow the tutorial.
 ```
 
 ### Setting up a development environment
-
-- Install Laravel
-- Install Twilio SDK for PHP
-- Set Sendgrid environment
-- Purchasing an SMS enabled Twilio phone number
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+* Install Laravel
+* Install Twilio SDK for PHP
+* Set Sendgrid environment
+* Purchasing an SMS enabled Twilio phone number
 
 ## Creating a Quote API endpoint ( Forismatic and favqs APIs)
 
