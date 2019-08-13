@@ -1,9 +1,5 @@
 # Wake up to a dose of inspirational quotes every morning using Sendgrid/Twilio SMS and Quote APIs
 
-Introducing the topic and giving some background info.
-
-## Getting Started
-
 Introducing the topic and giving some background info. 
 
 ## Prerequisites
