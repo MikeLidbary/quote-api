@@ -67,8 +67,8 @@ class Quote extends Model
         $recipients=
         [
             [
-            'to' => '+254702558716',
-            'email_address' => 'liddypedia@gmail.com'
+            'to' => '07*********',
+            'email_address' => 'your email address'
             ]
         ];
         $quote=$this->fetchQuotes();
