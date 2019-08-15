@@ -30,7 +30,7 @@ class EmailQuote extends Mailable
      */
     public function build()
     {
-        $data=implode("<br>",$this->email_body);
+        $data=implode("</br>",$this->email_body);
         return $this->view('emails.quote')->with(['email_body'=>$data]);;
     }
 }
